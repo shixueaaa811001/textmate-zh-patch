@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+.AppleDouble
+.apdisk
+
+# 本地备份（install.sh / uninstall.sh 产物，勿入库）
+backup/
+*.log
+
+# 测试产物
+/tmp/
+*.nib.tmp
